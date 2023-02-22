@@ -1,0 +1,22 @@
+.navbar {
+    display: flex;
+    background-color: white;
+    justify-content: center;
+}
+
+.nav-list {
+    display: flex;
+}
+
+.nav-list a {
+    display: block;
+    padding: 1em;
+    text-decoration: none;
+    color: black;
+    padding-left: 100px;
+    
+}
+
+.nav-list a:hover {
+    background-color: rgb(241, 242, 244);
+}
